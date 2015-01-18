@@ -39,7 +39,7 @@
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.172527 0.380124 0.590482 0.25</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.172917 0.381022 0.591483 0.25</string>
+	<string>0.172527 0.380124 0.590482 0.25</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -61,13 +61,13 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.85654 0.388082 0.0694937 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.172917 0.381022 0.591483 1</string>
+		<string>0.172527 0.380124 0.590482 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.172917 0.381022 0.591483 1</string>
+		<string>0.172527 0.380124 0.590482 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.172917 0.381022 0.591483 1</string>
+		<string>0.172527 0.380124 0.590482 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.172917 0.381022 0.591483 1</string>
+		<string>0.172527 0.380124 0.590482 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.643688 0.0890405 0.0934494 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
